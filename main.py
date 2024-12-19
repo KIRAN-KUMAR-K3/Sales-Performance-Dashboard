@@ -98,7 +98,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://www.linkedin.com/in/kiran-kumar-k3/" target="_blank">KIRAN KUMAR K | DANESHWARI SAJJANAR | BHOOMIKA | JANNAESHWARI</a></p>
+<p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://www.linkedin.com/in/kiran-kumar-k3/" target="_blank">KIRAN KUMAR K </a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
